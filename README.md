@@ -1,9 +1,9 @@
 # Presentación 
-##Ocampo, Bárbara Mariel
+## Ocampo, Bárbara Mariel
 Soy de Zárate, actualmente estoy cursando materias de 2do y 3ro.
 Trabajo como intérprete Inglés-Español.
 ___
-##Pasatiempos
+## Pasatiempos
 -Me gusta mucho mirar series y películas, actualmente estoy mirando JoJo's.
 -Fan de Taylor Swift.
 -Me gusta mucho aprender cosas nuevas, siempre trato de incorporar conocimientos nuevos.
